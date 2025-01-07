@@ -1,0 +1,5 @@
+# Redirect API calls to your Vercel backend
+/gamer/*   https://cill-gamer-server.vercel.app/gamer/:splat   200
+
+# Handle SPA routes for your app
+/*       /index.html    200
