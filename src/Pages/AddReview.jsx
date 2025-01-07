@@ -51,7 +51,7 @@ const AddReview = () => {
         })
     }
   return (
-    <div className=" mb-10">
+    <div className=" my-10">
       <div className=" border-cyan-300 space-y-3 mb-4">
       <Fade cascade>
       <h1 className="text-center text-2xl font-bold">Add Game Review</h1>

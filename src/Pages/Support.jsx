@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Support = () => {
     return (
         <div>
-           <section className=" text-gray-800 py-12 px-6">
+           <section className=" text-gray-800 py-6 px-6">
             <div className="border-2 border-sky-200 bg-sky-50 rounded-xl p-10 shadow-sm my-7">
         <h1 className="text-3xl font-bold text-center text-sky-600">
         We're Here to Help
